@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* width: 50px; */
+  font-family: sans-serif;
+  background-image: linear-gradient(to top, #184ecc 0%, #79b18c 100%);
+}
+
+ul {
+  color: aliceblue;
+  text-shadow: 2px 2px 2px #000;
+}
